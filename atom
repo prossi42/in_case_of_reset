@@ -1,0 +1,19 @@
+
+Parametrage ATOM :
+
+	ATOM ==> Preferences ==> Editor ==> Tab length ==> 4
+	ATOM ==> Preferences ==> Editor ==> Tab Type ==> Hard
+
+Add-Ons que j'utilise :
+
+	ATOM ==> install :
+
+		* Minimap : affichage d'une minimap sur dans le coin pour scroller
+					plus vite les grands fichier.
+
+		* single-click-open : De base Atom remplace le dernier fichier ouvert
+								(sans modif) par le suivant que vous ouvrez,
+								cet addon fixe chaque fichier a l ouverture
+
+		* header-42 : place le header de 42 en haut du fichier
+						(commande : cmd + option + h)
