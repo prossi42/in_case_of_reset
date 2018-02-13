@@ -1,0 +1,5 @@
+cd library/
+
+rm -rf "applications_support"
+
+Et c est reparti
