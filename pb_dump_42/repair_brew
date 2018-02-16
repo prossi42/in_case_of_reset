@@ -1,0 +1,14 @@
+Commande pour reparer le brew :
+
+		curl -fsSL https://rawgit.com/kube/42homebrew/master/install.sh | zsh
+
+	Relancer le terminal pour prendre en compte le changement
+
+Pour desinstaller le brew :
+
+	Effacer cette ligne du .zshrc :
+
+		# Load Homebrew Fix script
+			source $HOME/.brewconfig.zsh
+
+	rm -rf .brewconfig.zsh dans le home
